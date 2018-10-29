@@ -4,6 +4,11 @@
 *.dll
 *.so
 *.dylib
+cull_the_devs/cull_the_devs.zip
+cull_the_devs/cull_the_devs_darwin64
+cull_the_devs/cull_the_devs_linux64
+slipway/slipway_darwin64
+slipway/slipway_linux64
 
 # Test binary, build with `go test -c`
 *.test
